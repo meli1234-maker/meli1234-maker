@@ -22,14 +22,20 @@
 
 ## o Information architecture: 
 
-La estructura de la página fue diseñada para ofrecer una navegación clara y eficiente, que permita a los usuarios acceder rápidamente a las secciones de interés. La página principal contiene un menú de navegación con enlaces directos a las secciones más importantes: "Inicio", "Recursos", "Inspiración" y "Contacto". Cada sección está diseñada con subcategorías para facilitar el acceso a contenidos específicos. Por ejemplo, en la sección de "Recursos", el contenido se divide en "Tutoriales", "Herramientas", y "Plantillas", lo que permite a los usuarios encontrar lo que necesitan sin esfuerzo.
+The structure of my resume page has been designed with the goal of making it easy to read and visually appealing to the user. I’ve organized the content in a clear and accessible way, ensuring that the most important information is easily visible at first glance. At the top, you'll find my personal details and contact information, including my name, profession, and contact details. This placement ensures that key information is the first thing a visitor sees.
 
-Además, implementamos un sistema de búsqueda avanzada en la parte superior de cada página para que los usuarios puedan buscar términos específicos. Optamos por una estructura de diseño basada en tarjetas en la sección de "Inspiración", lo que facilita la visualización de múltiples elementos a la vez y mejora la experiencia de usuario al permitir una navegación visual rápida.
+Below, I’ve used a two-column layout to distribute the content evenly. The first column includes sections such as my professional profile, technical skills, and languages, while the second column contains my work experience and education. This separation allows the user to quickly find the information they are most interested in without feeling overwhelmed.
+
+Adequate spacing has been left between each section to prevent the page from looking cluttered, improving readability and making navigation easier. Furthermore, the layout follows a logical order: personal information first, followed by details about my skills and experience. This creates an efficient structure that makes it easy for the viewer to consult my resume and makes the overall experience more interactive.
 
 ## o Visual design:
 
-Para el diseño visual del sitio, optamos por una paleta de colores que transmite profesionalismo y creatividad, utilizando tonos azul oscuro combinados con acentos en amarillo suave para crear un contraste atractivo sin saturar la vista. Elegimos una tipografía sans-serif para el cuerpo del texto, lo que mejora la legibilidad, y una tipografía más decorativa para los encabezados, con el fin de añadir un toque de creatividad.
+The color design of my resume page is intentionally simple and minimalist. I chose a soft tone to ensure that the focus remains on the content rather than distracting visual elements. This color selection creates a professional, clean, and accessible aesthetic, allowing the important information to stand out.
 
-En cuanto a la disposición, usamos un diseño en bloques con suficiente espacio en blanco para dar una sensación de orden y limpieza. Esto permite a los usuarios concentrarse en los elementos importantes sin sentirse abrumados. Los botones de navegación son grandes y de color contrastante, facilitando su identificación y uso. Además, se utilizó una jerarquía visual clara para destacar el contenido relevante en cada sección, lo que guía al usuario de manera intuitiva a través de la página.
+The use of soft colors, along with a strong blue to highlight my profession, makes this key piece of information pop without overwhelming the design. The strong blue color draws attention to this section, effectively emphasizing the most important aspect of the resume.
+
+I incorporated subtle lines to separate the different sections, which helps create a clear visual hierarchy and guides the user intuitively through the content. These lines not only distinguish each section but also add an organized, structured touch, enhancing the layout without cluttering the design. This approach aims to provide a visually calm, comfortable, and professional experience, allowing the content to take center stage.
 
 ## o Link to the Figma project:
+
+https://www.figma.com/design/FqqOcOGg1UslpVFfHX2J0P/Untitled?m=auto&t=Ld2Avrc9cHTClb5Y-6
